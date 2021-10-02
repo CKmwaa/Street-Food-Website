@@ -3,11 +3,13 @@
 }
 .Second{
     background-color: rgb(214, 208, 208);
+    padding: 30px;
 }
 .Third{
     background-color: rgb(116, 151, 116);
-
+    padding: 30px;
 }
+
 semicircle{
     transform: translatex(50%);
     top: 0%;
