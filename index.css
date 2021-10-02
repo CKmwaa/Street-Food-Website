@@ -1,4 +1,14 @@
-.semicircle{
+.First {
+    background-color: rgb(202, 198, 198);
+}
+.Second{
+    background-color: rgb(214, 208, 208);
+}
+.Third{
+    background-color: rgb(116, 151, 116);
+
+}
+semicircle{
     transform: translatex(50%);
     top: 0%;
     left: 0%;
