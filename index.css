@@ -43,7 +43,7 @@ p.ord{
 }
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto;
   grid-gap: 10px;
   padding: 10px;
 }
@@ -53,4 +53,7 @@ p.ord{
 
   text-align: center;
   font-size: 30px;
+}
+.img{
+  border-radius: 15px 50px 30px 5px; 
 }
