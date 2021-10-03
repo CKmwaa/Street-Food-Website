@@ -41,3 +41,16 @@ p.ord{
 .column{
   flex: 50%;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid-container > div {
+ 
+
+  text-align: center;
+  font-size: 30px;
+}
