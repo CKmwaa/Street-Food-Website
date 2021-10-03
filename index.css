@@ -54,6 +54,6 @@ p.ord{
   text-align: center;
   font-size: 30px;
 }
-.img{
-  border-radius: 15px 50px 30px 5px; 
+.burger{
+  background-color: rgb(191, 240, 223);
 }
