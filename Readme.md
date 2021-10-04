@@ -1,5 +1,5 @@
 ##### By Caleb Mwangi 
-### It is a description of my resume.
+### It is a description of my Website.
 ​
 ## Table of Content
 ​
