@@ -1,5 +1,3 @@
- Portfolio
-​
 ##### By Caleb Mwangi 
 ### It is a description of my resume.
 ​
