@@ -5,11 +5,11 @@
 ​
 + [Description](#description)
 + [Requirements](#Requirements)
-+ [Access](#Access process)
++ [Access](#Access)
 + [Technology Used](#technology-used)
 + [Authors Info](#author-Info)
 + [Licence](#licence)
-+ 
+
 ​
 ## Description
 <p>This is  a website that has samples of foods contains a portfolio to easily access foods at a click at your comfort zone.</p>
