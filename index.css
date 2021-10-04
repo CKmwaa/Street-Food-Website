@@ -1,21 +1,62 @@
-.First {
-    background-color: rgb(202, 198, 198);
-}
-.Second{
-    background-color: rgb(214, 208, 208);
-    padding: 30px;
-}
-.Third{
-    background-color: rgb(116, 151, 116);
-    padding: 30px;
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
-semicircle{
-    transform: translatex(50%);
-    top: 0%;
-    left: 0%;
-    width: 70vw;
-    height: 70vh;
-    background-color: rgb(68, 231, 204);
-    border-radius: 0 0 50% 50%/ 0 0 100% 100%;
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+h4{
+  background-color: forestgreen;
+  width: 100px;
+  height: 20px;
+  padding: 20px;
+  border: 1px;
+  border-radius: 25%;
+}
+p.ord{
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px
+}
+.column{
+  padding-left: 120px;
+}
+.row{
+  display: flex;
+}
+.column{
+  flex: 50%;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid-container > div {
+ 
+
+  text-align: center;
+  font-size: 30px;
+}
+.burger{
+  background-color: rgb(191, 240, 223);
+}
+.first{
+  background-color: rgb(163, 161, 161);
 }
