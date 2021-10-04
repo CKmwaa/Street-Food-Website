@@ -1,15 +1,15 @@
- Portfolio
-​
 ##### By Caleb Mwangi 
 ### It is a description of my resume.
 ​
 ## Table of Content
 ​
 + [Description](#description)
++ [Requirements](#Requirements)
++ [Access](#Access)
 + [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
 + [Authors Info](#author-Info)
++ [Licence](#licence)
+
 ​
 ## Description
 <p>This is  a website that has samples of foods contains a portfolio to easily access foods at a click at your comfort zone.</p>
@@ -22,8 +22,7 @@
 ​
 * An access to the Internet
 ​
-### Installation Process
-
+### Access Process
 
 * Click to your browser
 
