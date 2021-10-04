@@ -24,7 +24,6 @@
 ​
 ### Access Process
 
-
 * Click to your browser
 
 * Enter the URL to the website and click
